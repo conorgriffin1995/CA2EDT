@@ -1,0 +1,4 @@
+C:\Users\x00111602\CA2EDT\Autism-Adult\Autism-Adult-Data.arff
+C:\Users\x00111602\CA2EDT\Autism-Adult\Normalised.arff
+C:\Users\x00111602\CA2EDT\Autism-Adult\Standardised.arff
+C:\Users\x00111602\CA2EDT\Autism-Adult\Missing.arff
