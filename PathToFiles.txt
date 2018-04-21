@@ -1,4 +1,4 @@
-C:\Users\x00111602\CA2EDT\Autism-Adult\Autism-Adult-Data.arff
-C:\Users\x00111602\CA2EDT\Autism-Adult\Normalised.arff
-C:\Users\x00111602\CA2EDT\Autism-Adult\Standardised.arff
-C:\Users\x00111602\CA2EDT\Autism-Adult\Missing.arff
+C:\College\4thYear\Semester8\EDT\CA2\Autism-Adult\Autism-Adult-Data.arff
+C:\College\4thYear\Semester8\EDT\CA2\Autism-Adult\Normalised.arff
+C:\College\4thYear\Semester8\EDT\CA2\Autism-Adult\Standardised.arff
+C:\College\4thYear\Semester8\EDT\CA2\Autism-Adult\Missing.arff
